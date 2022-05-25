@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "u8nXvjcSMmaQuMRdvWQqPe9UD49DzNn0cooTr78tOBA=",
+  "Source": "OrchardCoreCMS",
+  "BasePath": "_content/OrchardCoreCMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrchardCoreCMS/wwwroot",
+      "Source": "OrchardCoreCMS",
+      "ContentRoot": "/Users/ronald.odiyar/Library/CloudStorage/OneDrive-HealthCatalyst/Health Catalyst/Code/Bitbucket/OrchardCore/OrchardCoreCMS/wwwroot/",
+      "BasePath": "_content/OrchardCoreCMS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ronald.odiyar/Library/CloudStorage/OneDrive-HealthCatalyst/Health Catalyst/Code/Bitbucket/OrchardCore/OrchardCoreCMS/wwwroot/.placeholder",
+      "SourceId": "OrchardCoreCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ronald.odiyar/Library/CloudStorage/OneDrive-HealthCatalyst/Health Catalyst/Code/Bitbucket/OrchardCore/OrchardCoreCMS/wwwroot/",
+      "BasePath": "_content/OrchardCoreCMS",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.placeholder"
+    }
+  ]
+}
